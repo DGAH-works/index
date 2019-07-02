@@ -27,13 +27,13 @@
 
 ## 工具包作品
 
-- 战功荣耀
+- [战功荣耀](https://github.com/DGAH-works/glory)
 
-- 欢乐成双
+- [欢乐成双](https://github.com/DGAH-works/happy2v2)
 
-- AI修复
+- [AI修复](https://github.com/DGAH-works/aifix)
 
-- 单挑测试
+- [单挑测试](https://github.com/DGAH-works/pkst)
 
 ## 扩展包作品
 
