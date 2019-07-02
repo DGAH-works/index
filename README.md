@@ -1,4 +1,4 @@
-# 安河作品发布站 - 简介
+# 安河作品发布站
 
 这里是安河作品发布站，主要用于公开发布太阳神三国杀爱好者独孤安河（DGAH）创作或参与创作的各项作品。
 
@@ -13,17 +13,17 @@
 
 ## 文档作品
 
-- 新版太阳神三国杀武将扩展学习手册
+- [新版太阳神三国杀武将扩展学习手册](https://github.com/DGAH-works/QSgsHandbook-I)
 
-- 新版太阳神三国杀武将扩展学习手册·第二部
+- [新版太阳神三国杀武将扩展学习手册·第二部](https://github.com/DGAH-works/QSgsHandbook-II)
 
-- 新版太阳神三国杀武将扩展学习手册·终结参考
+- [新版太阳神三国杀武将扩展学习手册·终结参考](https://github.com/DGAH-works/QSgsHandbook-EX)
 
-- 新版太阳神三国杀武将技能AI设计概要
+- [新版太阳神三国杀武将技能AI设计概要](https://github.com/DGAH-works/QSgsAIDoc-General)
 
-- 太阳神三国杀AI系统设计分析
+- [太阳神三国杀AI系统设计分析](https://github.com/DGAH-works/QSgsAISysTalk)
 
-- 新版太阳神三国杀技能卡型视为技AI设计概述
+- [新版太阳神三国杀技能卡型视为技AI设计概述](https://github.com/DGAH-works/QSgsAIDoc-SkillCard)
 
 ## 工具包作品
 
