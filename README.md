@@ -37,26 +37,26 @@
 
 ## 扩展包作品
 
-- 八扇屏
+- [八扇屏](https://github.com/DGAH-works/screens)
 
-- 大蛇一族
+- [大蛇一族](https://github.com/DGAH-works/orochies)
 
-- 代码先锋
+- [代码先锋](https://github.com/DGAH-works/codex)
 
-- 简约风
+- [简约风](https://github.com/DGAH-works/concise)
 
-- 金陵十二钗
+- [金陵十二钗](https://github.com/DGAH-works/hairpin)
 
-- 金装武将
+- [金装武将](https://github.com/DGAH-works/Dgolden)
 
-- 经典再临
+- [经典再临](https://github.com/DGAH-works/classic)
 
-- 魔法少女小圆
+- [魔法少女小圆](https://github.com/DGAH-works/MadokaMagica)
 
-- 乌有中学
+- [乌有中学](https://github.com/DGAH-works/qz)
 
-- 凶灵传奇
+- [凶灵传奇](https://github.com/DGAH-works/evil)
 
-- 赵云合集
+- [赵云合集](https://github.com/DGAH-works/Dzhaoyun)
 
-- 重镇固守
+- [重镇固守](https://github.com/DGAH-works/zzgs)
